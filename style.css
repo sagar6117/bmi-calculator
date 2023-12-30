@@ -1,0 +1,83 @@
+*{
+    font-family: 'Overpass', sans-serif;
+}
+#mainDiv{
+    background-color: #0766AD;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+    border-radius: 10px;
+    font-family: 'Overpass', sans-serif;
+    color: #F3F3F3;
+    text-align: center;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    color: #F3F3F3;
+    margin-bottom: 20px;
+}
+
+
+
+div{
+    text-align: center;
+}
+
+#sub1{
+    font-size: 30px;
+    font-weight: bold; 
+    color: #C5E898;
+    margin-bottom: 10px;
+}
+
+input{
+    width: 100px;
+    height:50px;
+    border-radius: 3px;
+    border: none;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
+
+button{
+    font-size: 20px;
+    width: 200px;
+    vertical-align: middle;
+    margin: 10px;
+    
+}
+
+#submit{
+    background-color: #29ADB2;
+    border: none;
+    padding:7px;
+    border-radius: 3px;
+}
+#reset{
+    background-color: #ffffff;
+    border: none;
+    padding:7px;
+    border-radius: 3px;
+}
+
+#form1, #form2{
+    display: inline-block;
+    padding: 30px;
+    border: 1px solid #87C4FF;
+    padding:25px;
+    border-radius: 3px;
+    margin: 5px;
+}
+
+label{
+    font-size: 20px;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
